@@ -1,1 +1,0 @@
-# Starting-and-speed-control-of-motors
